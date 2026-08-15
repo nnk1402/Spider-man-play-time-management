@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Spiderman Countdown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE65C0-2721-63A7-1FBE-194D2EC0AB78}|Spiderman Countdown\\Spiderman Countdown.csproj|c:\\users\\admin\\source\\repos\\spiderman countdown\\spiderman countdown\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36AE65C0-2721-63A7-1FBE-194D2EC0AB78}|Spiderman Countdown\\Spiderman Countdown.csproj|solutionrelative:spiderman countdown\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE65C0-2721-63A7-1FBE-194D2EC0AB78}|Spiderman Countdown\\Spiderman Countdown.csproj|c:\\users\\admin\\source\\repos\\spiderman countdown\\spiderman countdown\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE65C0-2721-63A7-1FBE-194D2EC0AB78}|Spiderman Countdown\\Spiderman Countdown.csproj|solutionrelative:spiderman countdown\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Spiderman Countdown\\Spiderman Countdown\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Spiderman Countdown\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Spiderman Countdown\\Spiderman Countdown\\MainWindow.xaml",
+              "RelativeToolTip": "Spiderman Countdown\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-15T04:12:17.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Spiderman Countdown\\Spiderman Countdown\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Spiderman Countdown\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Spiderman Countdown\\Spiderman Countdown\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Spiderman Countdown\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwEIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T04:21:04.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

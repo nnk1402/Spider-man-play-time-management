@@ -1,0 +1,78 @@
+﻿<Window x:Class="Spiderman_Countdown.setTimeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spiderman_Countdown"
+        mc:Ignorable="d"
+        Title="Set Play Time" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent">
+
+    <Grid>
+        <!-- Hình nền -->
+        <Grid.Background>
+            <ImageBrush ImageSource="setTimeBackground.png"/>
+        </Grid.Background>
+
+        <!-- Card ở giữa -->
+        <Border Width="380" Height="280" 
+                CornerRadius="25"
+                Background="#AA000000"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                BorderBrush="#55FFFFFF"
+                BorderThickness="1">
+
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="50" ShadowDepth="20" Color="#FFA69696" Opacity="0.6"/>
+            </Border.Effect>
+
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                <TextBlock Text="SET PLAY TIME" 
+                           FontSize="32" 
+                           FontWeight="Bold"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           Margin="0 0 0 30"/>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 0 0 35">
+                    <TextBox x:Name="txtMinutes" 
+                             Width="110" Height="45"
+                             FontSize="22"
+                             TextAlignment="Center"
+                             VerticalContentAlignment="Center"
+                             Background="White"
+                             BorderThickness="0"
+                             Padding="5"/>
+
+                    <TextBlock Text="Minutes" 
+                               Foreground="White" 
+                               FontSize="20"
+                               VerticalAlignment="Center"
+                               Margin="15 0 0 0"/>
+                </StackPanel>
+
+                <Button x:Name="btnOK" 
+                        Content="Ok" 
+                        Width="130" Height="45"
+                        FontSize="20"
+                        FontWeight="SemiBold"
+                        Background="#FF2ECC71"
+                        Foreground="White"
+                        BorderThickness="0"
+                        Cursor="Hand"
+                        Click="btnOK_Click">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="22"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

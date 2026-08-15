@@ -1,0 +1,6 @@
+D:\myApp\spidermanCountdown\Spiderman Countdown.exe
+D:\myApp\spidermanCountdown\Alarm.mp3
+D:\myApp\spidermanCountdown\Spiderman Countdown.dll
+D:\myApp\spidermanCountdown\Spiderman Countdown.deps.json
+D:\myApp\spidermanCountdown\Spiderman Countdown.runtimeconfig.json
+D:\myApp\spidermanCountdown\Spiderman Countdown.pdb

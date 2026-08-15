@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>Spiderman_Countdown</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Alarm.mp3" />
+    <None Remove="setTimeBackground.png" />
+    <None Remove="spider-man-comic-new-logo-png_seeklogo-130400.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="menuBackground.png" />
+    <Resource Include="setTimeBackground.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="spider-man-comic-new-logo-png_seeklogo-130400.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Alarm.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

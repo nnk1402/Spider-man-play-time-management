@@ -1,0 +1,24 @@
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\bin\Release\net10.0-windows\Alarm.mp3
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\bin\Release\net10.0-windows\Spiderman Countdown.exe
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\bin\Release\net10.0-windows\Spiderman Countdown.deps.json
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\bin\Release\net10.0-windows\Spiderman Countdown.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\bin\Release\net10.0-windows\Spiderman Countdown.dll
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\bin\Release\net10.0-windows\Spiderman Countdown.pdb
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\setTimeWindow.g.cs
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\App.g.cs
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown_Content.g.cs
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\MainWindow.baml
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\setTimeWindow.baml
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.g.resources
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.dll
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\refint\Spiderman Countdown.dll
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.pdb
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\Spiderman Countdown.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Spiderman Countdown\Spiderman Countdown\obj\Release\net10.0-windows\ref\Spiderman Countdown.dll

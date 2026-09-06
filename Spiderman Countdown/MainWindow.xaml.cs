@@ -23,6 +23,7 @@ namespace Spiderman_Countdown
         private TimeSpan _defaultTime = TimeSpan.FromMinutes(25);
         private bool isRunning = false;
         private bool isPlayingAlarm = false;
+        int view;
 
         private MediaPlayer _player = new MediaPlayer();
         public MainWindow()
@@ -72,8 +73,10 @@ namespace Spiderman_Countdown
             }
         }
 
-        public void updateDisplay() { 
-            txtTimer.Text = _timeRemaining.ToString(@"mm\:ss");
+        public void updateDisplay() {
+            int totalMinutes = (int)_timeRemaining.TotalMinutes;
+            int seconds = _timeRemaining.Seconds;
+            txtTimer.Text = $"{totalMinutes:D2}:{seconds:D2}";
         }
 
         public void timeReset() {
@@ -110,7 +113,8 @@ namespace Spiderman_Countdown
             bool? result = setTime.ShowDialog();
             if (result == true)
             {
-                _timeRemaining = _defaultTime = TimeSpan.FromMinutes(setTime.selectedMinutes);
+                _timeRemaining = TimeSpan.FromMinutes(setTime.selectedMinutes);
+                this.view = setTime.selectedMinutes;
                 updateDisplay();
             }
         }
